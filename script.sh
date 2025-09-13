@@ -1,10 +1,6 @@
 #!/bin/bash
 
-echo "Enter first number:"
-read a
+echo "Hello, World!"
 
-echo "Enter second number:"
-read b
-
-sum=$((a+b))
-echo "Sum = $sum"
+name="Gaurav"
+echo "Hello $name"
