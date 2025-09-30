@@ -2,5 +2,5 @@
 
 echo "Hello, World!"
 
-name="Bala"
-echo "Hello $name"
+name="Gaurav"
+echo "Hello ${name}"
