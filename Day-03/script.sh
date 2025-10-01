@@ -21,6 +21,3 @@ df -hT
 # End the script by letting the user know that it's done.
 echo "Stopping the sysinfo script
 
-hostnamectl set-hostname gaurav
-
-bash
