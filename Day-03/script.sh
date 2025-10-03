@@ -19,5 +19,5 @@ uname -m
 df -hT
 
 # End the script by letting the user know that it's done.
-echo "Stopping the sysinfo script
+echo "Stopping the sysinfo script."
 
